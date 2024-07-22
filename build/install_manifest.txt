@@ -1,0 +1,3 @@
+/work/build/lib/libudp_transport.so
+/work/build/bin/server
+/work/build/bin/client
